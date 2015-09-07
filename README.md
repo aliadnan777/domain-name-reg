@@ -1,8 +1,6 @@
-# domain-name-reg
+# Domain Name Registration
 
-Domain Name Registration Process
-After you have chosen a domain name,
-you will need to submit your domain name registration request to a registrar. 
+## Sign up for the Domain registration company
 
 You will need to submit the following information to the registrar:
 the desired domain name
@@ -15,4 +13,10 @@ The registry files the contact information for the Whois. The registry also adds
 
 Your domain is considered registered and ready-to-use when all information has been updated.
 
-godaddy.com is famous site
+## Domain Name Registration Process
+* Step 1: Choose your domain name
+* Step 2: Check that domain name is availble or not with registortion (godaddy.com is famous site)
+
+
+
+
